@@ -26,7 +26,7 @@
 <dependency>
     <groupId>com.sun.xml.ws</groupId>
     <artifactId>webservices-rt</artifactId>
-    <version>@metro.version@</version>
+    <version>1.0</version>
 </dependency>
 	  
 	<dependency>
